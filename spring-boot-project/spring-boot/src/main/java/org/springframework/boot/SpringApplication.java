@@ -288,6 +288,9 @@ public class SpringApplication {
 
 	/**
 	 * Run the Spring application, creating and refreshing a new
+	 *
+	 * SpringBoot启动入口
+	 *
 	 * {@link ApplicationContext}.
 	 * @param args the application arguments (usually passed from a Java main method)
 	 * @return a running {@link ApplicationContext}
